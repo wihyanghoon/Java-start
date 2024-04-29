@@ -2,7 +2,7 @@ package loop.ex;
 
 public class Ex3 {
     public static void main(String[] args) {
-        int rows = 2;
+        int rows = 50;
 
         // 행의 반복
         for (int i = 1; i <= rows; i ++) {
