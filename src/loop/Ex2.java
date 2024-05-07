@@ -1,4 +1,4 @@
-package loop.ex;
+package loop;
 
 public class Ex2 {
     public static void main(String[] args) {
