@@ -8,6 +8,10 @@ Basic Data Types and Programming Grammar
 * scope
 * casting
 * loop
+    * for
+    * while
+    * do-while
+    * case
 * scanner
 * array
 * method

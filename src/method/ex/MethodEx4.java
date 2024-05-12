@@ -14,7 +14,10 @@ public class MethodEx4 {
             System.out.print("선택 ");
             int input = scanner.nextInt();
 
-            if(input == 4) break;
+            if(input == 4) {
+                System.out.println("시스템을 종료합니다.");
+                return;
+            }
 
             if(input == 1){
                 System.out.print("입금액을 입력하세요: ");
